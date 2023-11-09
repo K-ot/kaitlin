@@ -8,4 +8,13 @@ body{
   border-radius: 15px;
   margin: 15px;
 }
-  
+  }
+.btn{
+  border: 5px solid #07497a;
+  padding: .5em 1em;
+  font-size: 2 rem;
+  background-color:LIght pink;
+  color:black;
+  transition: transform .5s;
+  border-radius: 2.5px;
+}
